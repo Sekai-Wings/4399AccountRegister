@@ -1,0 +1,9 @@
+{
+  "onnx_lib_path": "./libonnxruntime.so",
+  "onnx_model_path": "./4399ocr/4399ocr.onnx",
+  "sfz_file_path": "./sfz.txt",
+  "output_file_path": "./accounts.txt",
+  "account_prefix": "User",
+  "password_prefix": "Pass",
+  "worker_count": 12
+}
